@@ -1,0 +1,45 @@
+assignment ID/Variant: Assignment_category_0003
+
+
+client-side code GitHub repository:
+
+https://github.com/Porgramming-Hero-web-course/b9a11-client-side-ShariarArefinOfficial
+
+
+
+server-side code GitHub repository:
+
+https://github.com/Porgramming-Hero-web-course/b9a11-server-side-ShariarArefinOfficial
+
+live website link:
+
+https://job-project-61af0.web.app/
+
+
+
+Website NAme: Job Deed
+live website link:https://job-project-61af0.web.app/
+
+category List:
+1.Engineering
+2.Marketing
+3.HR Manager
+4.Project Manager
+
+Here are five key bullet points for "Job Deed" website:
+
+User-Friendly Interface: Easy navigation and a clean layout allowing users to search and apply for jobs effortlessly, with advanced filters for job type, location, salary range, and more.
+
+Comprehensive Job Listings: A wide range of job opportunities across various industries and experience levels, regularly updated to ensure the latest openings are available.
+
+Resume and Profile Management: Tools for users to create, upload, and manage their resumes and professional profiles, enhancing visibility to potential employers.
+
+Employer Services: Features for employers to post job openings, search for candidates, and manage applications, with options for enhanced job listing visibility and employer branding.
+
+Career Resources: Access to career advice, interview tips, resume writing guides, and other resources to help job seekers improve their chances of landing a job.
+
+
+
+
+
+
