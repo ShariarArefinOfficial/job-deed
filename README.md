@@ -7,7 +7,7 @@ https://github.com/ShariarArefinOfficial/job-deed-server
 
 #Technologies : React , Tailwind , Firebase , MongoDB 
 
-#Overview : The main goal of JobConnect is to create a comprehensive and user-friendly platform that connects job seekers with potential employers. The website will serve as a centralized hub where job seekers can find and apply for job opportunities, and employers can post job openings and find suitable candidates.
+#Overview : The main goal of JobDeed is to create a comprehensive and user-friendly platform that connects job seekers with potential employers. The website will serve as a centralized hub where job seekers can find and apply for job opportunities, and employers can post job openings and find suitable candidates.
 
 
 #Features:
